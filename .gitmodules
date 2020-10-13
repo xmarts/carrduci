@@ -7,3 +7,8 @@
 	path = hr_disciplinary
 	url = git@github.com:xmarts/hr_disciplinary.git
 	branch = main
+
+[submodule "equipments"]
+	path = equipments
+	url = git@github.com:xmarts/equipments.git
+	branch = main
