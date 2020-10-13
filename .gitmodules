@@ -2,3 +2,8 @@
 	path = credit_limit_alert_update
 	url = git@github.com:xmarts/credit_limit_alert_update.git
 	branch = 13.0
+
+[submodule "hr_disciplinary"]
+	path = hr_disciplinary
+	url = git@github.com:xmarts/hr_disciplinary.git
+	branch = main
