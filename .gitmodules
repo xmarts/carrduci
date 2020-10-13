@@ -1,0 +1,4 @@
+[submodule "hr_disciplinary"]
+	path = hr_disciplinary
+	url = git@github.com:xmarts/hr_disciplinary.git
+	branch = main
