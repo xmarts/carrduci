@@ -7,3 +7,8 @@
 	path = equipments
 	url = git@github.com:xmarts/equipments.git
 	branch = main
+
+[submodule "credit_limit_alert_update"]
+	path = credit_limit_alert_update
+	url = git@github.com:xmarts/credit_limit_alert_update.git
+	branch = 13.0
