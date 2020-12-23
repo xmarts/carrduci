@@ -12,3 +12,6 @@
 	path = credit_limit_alert_update
 	url = git@github.com:xmarts/credit_limit_alert_update.git
 	branch = 13.0
+[submodule "advanced-payment"]
+	path = advanced-payment
+	url = git@github.com:xmarts/advanced-payment.git
