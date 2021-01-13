@@ -8,3 +8,6 @@
 [submodule "hr_disciplinary"]
 	path = hr_disciplinary
 	url = git@github.com:xmarts/hr_disciplinary.git
+[submodule "equipments"]
+	path = equipments
+	url = git@github.com:xmarts/equipments.git
