@@ -12,3 +12,6 @@
 	path = equipments
 	url = git@github.com:xmarts/equipments.git
 	branch = main
+[submodule "advanced-payment"]
+	path = advanced-payment
+	url = git@github.com:xmarts/advanced-payment.git
