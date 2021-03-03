@@ -15,6 +15,3 @@
 [submodule "advanced-payment"]
 	path = advanced-payment
 	url = git@github.com:xmarts/advanced-payment.git
-[submodule "oh-hr-zk-attendance"]
-	path = oh-hr-zk-attendance
-	url = git@github.com:xmarts/oh-hr-zk-attendance.git
