@@ -19,3 +19,6 @@
 	path = mail-tracking
 	url = git@github.com:xmarts/mail-tracking.git
 	branch = main
+[submodule "oh-hr-zk-attendance"]
+	path = oh-hr-zk-attendance
+	url = git@github.com:xmarts/oh-hr-zk-attendance.git
