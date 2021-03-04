@@ -15,3 +15,7 @@
 [submodule "advanced-payment"]
 	path = advanced-payment
 	url = git@github.com:xmarts/advanced-payment.git
+[submodule "mail-tracking"]
+	path = mail-tracking
+	url = git@github.com:xmarts/mail-tracking.git
+	branch = main
